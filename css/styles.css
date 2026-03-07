@@ -14,11 +14,6 @@ img {
 
 h1 {
     color: #2c3e50;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    border-bottom: 2px solid #3498db;
-    display: inline-block;
-    padding-bottom: 10px;
 }
 
 table {
@@ -34,8 +29,7 @@ table {
 }
 
 figcaption {
-    padding: 15px;
-    font-size: 1.1em;
+    text-align: center;
     color: #34495e;
     font-weight: bold;
 }
