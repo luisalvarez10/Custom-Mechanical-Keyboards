@@ -1,7 +1,7 @@
 body{
 
-    background-color: #9c9c9c;
-    font-family: 'Roboto', sans-serif;
+    background-color: #f4f7f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
@@ -15,7 +15,7 @@ img {
 
 h1{
 
-    color: #4B5320;
+    color: #2c3e50;
 
 }
 
@@ -28,7 +28,7 @@ h1{
 figcaption {
 
     text-align: center;
-    color: #333;
+    color: #34495e;
     font-weight: bold;
 
 }
