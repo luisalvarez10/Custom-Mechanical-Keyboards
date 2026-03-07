@@ -17,8 +17,6 @@ h1 {
 }
 
 table {
-    border-collapse: separate;
-    border-spacing: 20px;
     border: none !important;
 }
 
