@@ -2,8 +2,6 @@ body {
     background-color: #f4f7f6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
-    line-height: 1.6;
-    margin: 40px;
 }
 
 img {
@@ -16,14 +14,9 @@ h1 {
     color: #2c3e50;
 }
 
-table {
-    border: none !important;
-}
-
 
 .table-content {
     text-decoration: none;
-    color: inherit;
 }
 
 figcaption {
